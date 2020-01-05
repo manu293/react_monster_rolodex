@@ -1,6 +1,6 @@
 # Welcome to React Monster Rolodex!
 
- **React Monster Rolodex **  is a simple application that has been built using the reactjs library to harness the power of the library in building user engaging application in less time. The application has been deployed to heroku and can be viewed by heading over to: https://react-monster-rolodex.herokuapp.com/ 
+ **React Monster Rolodex**  is a simple application that has been built using the reactjs library to harness the power of the library in building user engaging application in less time. The application has been deployed to heroku and can be viewed by heading over to: https://react-monster-rolodex.herokuapp.com/ 
  
 >Head over to the login section which has been pre-populated with the default userName and password for ease of testing.
 
